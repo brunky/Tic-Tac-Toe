@@ -9,3 +9,13 @@ If you don't want to broadcast your intentions by forking this, feel free to clo
 
 We are a Django shop, but it is not a requirement that you implement your program as a Django app. Make sure your submission accurately reflects your development style.
 
+Progress:
+
+1. Forked Project - Done
+2. Create a program that can interactively play the game of Tic-Tac-Toe against a human player and never lose.
+    a. Research/Figure out Algorithm to use (MiniMax) a good refernce  http://www.neverstopbuilding.com/minimax
+    b. come up with concept: tic tac toe chicken - chicken can never lose. draw out upload
+    c. Decide on programing language - jquery
+    d. Start writing code
+    e. connect chicken ui.
+    f. test/debug.
